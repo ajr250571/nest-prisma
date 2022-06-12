@@ -1,3 +1,6 @@
+## Curso
+https://www.youtube.com/watch?v=5I2liR4uns8
+
 npm i prisma --save-dev
 
 ## Instala cli
